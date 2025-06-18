@@ -269,6 +269,10 @@ import logging
 logging.basicConfig(level=logging.DEBUG)
 ```
 
+###Progress Tracking enhancement
+You can use the [following guide](https://github.com/AoGnyan/S3-Million-Version-Markers-Annihilator-/blob/main/Progress%20Tracking%20and%20Logging%20Enhancement.md) to add progress tracking and logging into the code 
+
+
 ---
 
 ## Best Practices
